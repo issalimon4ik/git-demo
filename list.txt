@@ -1,3 +1,6 @@
 sword
 shield
 apple
+castle
+river
+dragon
